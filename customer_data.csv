@@ -1,0 +1,7 @@
+CustomerID,Age,AnnualIncome,SpendingScore,City
+1,19,15,39,Delhi
+2,21,15,81,Mumbai
+3,20,16,6,Chennai
+4,23,16,77,Bangalore
+5,31,17,40,Hyderabad
+...
